@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>БъЬт</title>
+</head>
+<body>
+<h1>hello world</h1>
+<h2>hello world</h2>
+<h3>hello</h3>s
+<h4>nice</h4>
+<h5>handsome</h5>
+<h6>i am superman</h6>
+<p>FPX NB</p>
+</hr></hr>
+<a href="index.html">hello world</a>
+<ul>
+       <li>apple</li>
+       <li>pear</li>
+       <li>grape</li>
+<caption>FPX NB</caption>
+s
+<table border="3">
+   <tr>
+       <td>row 1,cell 1</td>
+       <td>row 1,cell 2</td>
+   </tr>
+  <tr>
+   <td>row 1,cell 1</td>
+    <td>row 1,cell 2</td>
+   </tr>
+</table>
+</ul>
+</body>
+</html>
